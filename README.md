@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @czantira
-- 👀 I’m interested in learn about git basics
-- 🌱 I’m currently learning to code with JavaScript
+- 👀 I’m interested in learning about git basics
+- 🌱 I’m currently learning to code with Python
 - 💞️ I’m looking to collaborate on building and online payment system
 - 📫 How to reach me czantira98@gmail.com
 
